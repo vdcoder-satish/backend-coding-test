@@ -1,6 +1,7 @@
 const express=require('express');
+require('dotenv').config();
 const app=express();
-const port=8010;
+const port=process.env.PORT;
 app.listen(port,()=>{
-    console.log('server started');
+    console.log('server started on port',port);
 })
