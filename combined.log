@@ -1,0 +1,131 @@
+{"level":"info","message":"info","service":"user-service"}
+{"level":"warn","message":"warn","service":"user-service"}
+{"level":"debug","message":"debug","service":"user-service"}
+{"level":"info","message":"info","service":"user-service"}
+{"level":"warn","message":"warn","service":"user-service"}
+{"level":"debug","message":"debug","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"info","message":"info","service":"user-service"}
+{"level":"warn","message":"warn","service":"user-service"}
+{"level":"debug","message":"debug","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+2022-12-03T08:56:44.872Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] info: info
+2022-12-03T08:56:44.875Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] warn: warn
+2022-12-03T08:56:44.875Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] debug: debug
+2022-12-03T08:56:44.876Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] error: error
+2022-12-03T08:56:50.062Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] info: info
+2022-12-03T08:56:50.065Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] warn: warn
+2022-12-03T08:56:50.066Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] debug: debug
+2022-12-03T08:56:50.067Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] error: error
+2022-12-03T08:56:55.413Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] info: info
+2022-12-03T08:56:55.416Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] warn: warn
+2022-12-03T08:56:55.417Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] debug: debug
+2022-12-03T08:56:55.418Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] error: error
+2022-12-03T08:57:16.657Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }]: info
+2022-12-03T08:57:16.660Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }]: warn
+2022-12-03T08:57:16.660Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }]: debug
+2022-12-03T08:57:16.661Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }]: error
+2022-12-03T08:57:20.991Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] info: info
+2022-12-03T08:57:20.994Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] warn: warn
+2022-12-03T08:57:20.994Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] debug: debug
+2022-12-03T08:57:20.995Z [function createFormatWrap(opts) {
+    return new Format(opts);
+  }] error: error
+2022-12-03T08:57:28.791Z  info: info
+2022-12-03T08:57:28.793Z  warn: warn
+2022-12-03T08:57:28.793Z  debug: debug
+2022-12-03T08:57:28.794Z  error: error
+2022-12-03T08:57:30.553Z info: info
+2022-12-03T08:57:30.556Z warn: warn
+2022-12-03T08:57:30.557Z debug: debug
+2022-12-03T08:57:30.557Z error: error
+2022-12-03T08:57:34.910Z info: info
+2022-12-03T08:57:34.913Z warn: warn
+2022-12-03T08:57:34.913Z debug: debug
+2022-12-03T08:57:34.914Z error: error
+2022-12-03T08:58:48.391Z info: info
+2022-12-03T08:58:48.393Z warn: warn
+2022-12-03T08:58:48.394Z debug: debug
+2022-12-03T08:58:48.394Z error: error
+2022-12-03T08:58:54.212Z info: info
+2022-12-03T08:58:54.215Z warn: warn
+2022-12-03T08:58:54.216Z debug: debug
+2022-12-03T08:58:54.217Z error: error
+14 info: info
+14 warn: warn
+14 debug: debug
+14 error: error
+14:29:00 info: info
+14:29:00 warn: warn
+14:29:00 debug: debug
+14:29:00 error: error
+14:29:20 [info: info
+14:29:20 [warn: warn
+14:29:20 [debug: debug
+14:29:20 [error: error
+14:29:23 [info]: info
+14:29:23 [warn]: warn
+14:29:23 [debug]: debug
+14:29:23 [error]: error
+14:31:39 [[32minfo[39m]: info
+14:31:39 [[33mwarn[39m]: warn
+14:31:39 [[34mdebug[39m]: debug
+14:31:39 [[31merror[39m]: error
+14:32:17 [[32minfo[39m]: info
+14:32:17 [[33mwarn[39m]: warn
+14:32:17 [[34mdebug[39m]: debug
+14:32:17 [[31merror[39m]: error
+14:33:22 [[32minfo[39m]: info
+14:33:22 [[33mwarn[39m]: warn
+14:33:22 [[34mdebug[39m]: debug
+14:33:22 [[31merror[39m]: error
+14:35:39 [[32minfo[39m]: info
+14:35:39 [[33mwarn[39m]: warn
+14:35:39 [[34mdebug[39m]: debug
+14:35:39 [[31merror[39m]: error
+14:35:44 [[32minfo[39m]: info
+14:35:44 [[33mwarn[39m]: warn
+14:35:44 [[34mdebug[39m]: debug
+14:35:44 [[31merror[39m]: error
+14:36:07 [[32minfo[39m]: info
+14:36:07 [[33mwarn[39m]: warn
+14:36:07 [[34mdebug[39m]: debug
+14:36:07 [[31merror[39m]: error
